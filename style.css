@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 61px 246px;
+    background-image: linear-gradient(to right, lightblue, white, lightblue);
+    text-shadow: -4px 2px navy, -8px 4px slateblue, -12px 6px turquoise;
+    letter-spacing: 15px;
+}
